@@ -1,0 +1,258 @@
+.Photo-1 img{
+    position: absolute;
+    top: 1600px;
+    right: 700px;
+    width: 450px;
+    height: 450px;
+    border-radius: 15px;
+  }
+  .Photo-2 img{
+    position: absolute;
+    top: 1900px;
+    right: 800px;
+    width: 450px;
+    height: 275px;
+    border-radius: 15px;  
+  }
+  
+  #line-1 hr{
+    position: absolute;
+    width: 15px;
+    height: 255px;
+    background-color: rgb(255, 123, 0);
+    top: 1600px;
+    right: 1210px;
+    border-radius: 30px;
+  }
+  #line-2 hr{
+    position: absolute;
+    width: 4px;
+    height: 100px;
+    background-color: #ff7b00;
+    top: 1990px;
+    right: 250px;
+    border-radius: 20px;
+  }
+  .text-bg3 h1{
+    position: absolute;
+    top: 1600px;
+    right: 150px;
+    text-decoration: none;
+    font-style: normal;
+    font-family: Teko ,sans-serif;
+    font-size: 70px;
+  }
+  .text-bg3 h2{
+    position: absolute;
+    top: 1660px;
+    right: 450px;
+    text-decoration: none;
+    font-style: normal;
+    font-family: Teko ,sans-serif;
+    font-size: 70px;
+  }
+  .text-bg3 h3{
+    position: absolute;
+    top: 1720px;
+    right: 390px;
+    text-decoration: none;
+    font-style: normal;
+    font-family: Teko ,sans-serif;
+    font-size: 70px;
+  }
+  /* .text-bg3 h4{
+    color: #ff7b00;
+    position: absolute;
+    top: 10;
+    right: 374px;
+    text-decoration: none;
+    font-style: normal;
+    font-family: Teko ,sans-serif;
+    font-size: 70px;
+  } */
+  .text-bg3 h5{
+    position: absolute;
+    top: 1820px;
+    right: 170px;
+    text-decoration: none;
+    font-style: normal;
+    font-family: Teko ,sans-serif;
+    font-size: 27px;
+  }
+  .text-bg3 h6{
+    position: absolute;
+    top: 1900px;
+    right: 140px;
+    text-decoration: none;
+    font-style: normal;
+    font-family: Rubik, sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .services-provide-1 img{
+    position: absolute;
+    top: 1950px;
+    right: 590px;
+    height: 34px;
+  }
+  .services-provide-2 img{
+    position: absolute;
+    top: 1990px;
+    right: 590px;
+    height: 34px;
+  }
+  .services-provide-3 img{
+    position: absolute;
+    top: 2030px;
+    right: 590px;
+    height: 34px;
+  }
+  .services-provide-4 img{
+    position: absolute;
+    top: 2070px;
+    right: 590px;
+    height: 34px;
+  }
+  .services-provide-5 img{
+    position: absolute;
+    top: 2110px;
+    right: 590px;
+    height: 34px;
+  }
+  .services-provide-1 h1{
+    position: absolute;
+    top: 1959px;
+    right: 450px;
+    text-decoration: none;
+    font-style: normal;
+    font-family: Rubik, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+  }
+  .services-provide-2 h1{
+    position: absolute;
+    top: 1999px;
+    right: 305px;
+    text-decoration: none;
+    font-style: normal;
+    font-family: Rubik, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+  }
+  .services-provide-3 h1{
+    position: absolute;
+    top: 2039px;
+    right: 402px;
+    text-decoration: none;
+    font-style: normal;
+    font-family: Rubik, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+  }
+  .services-provide-4 h1{
+    position: absolute;
+    top: 2079px;
+    right: 428px;
+    text-decoration: none;
+    font-style: normal;
+    font-family: Rubik, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+  }
+  .services-provide-5 h1{
+    position: absolute;
+    top: 2119px;
+    right: 394px;
+    text-decoration: none;
+    font-style: normal;
+    font-family: Rubik, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+  }
+  
+  /* hover-button open */
+  .hover-button{
+    position: absolute;
+    top: 2200px;
+    right: 394px;
+    background-color: rgba(0, 252, 134, 0.4);
+    border-radius: 6px;
+    width: 237px;
+    height: 62px;
+  }
+  .hover-button h4{
+    font-family: Londrina Solid;
+    font-weight: bold;
+    font-size: 18px;
+    font-style: normal;
+    padding: 5px 10px;
+   }
+  .hover-button a{
+    position: relative;
+    display: inline-block;
+    padding: 15px 30px;
+    color: #000000;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    text-decoration: none;
+    font-size: 24px;
+    overflow: hidden;
+    transform: 0.2s;
+  }
+  .hover-button a:hover{
+    color: #000000;
+    background: #2196f3;
+    box-shadow: 0 0 10px #2169f3, 0 0 40px #2169f3, 0 0 80px #2169f3;
+    transition-delay: 1s;
+  }
+  .hover-button a span{
+    position: absolute;
+    display: block;
+  }
+  .hover-button a span:nth-child(1){
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(90deg,transparent,#008cff);
+  }
+  .hover-button a:hover span:nth-child(1){
+    left: 100%;
+    transition: 1s;
+  }
+  .hover-button a span:nth-child(2){
+    top: -100%;
+    right: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(180deg,transparent,#2196f3);
+  }
+  .hover-button a:hover span:nth-child(2){
+    top: 100%;
+    transition: 1s;
+    transition-delay: 0.25s;
+  }
+  .hover-button a span:nth-child(3){
+    bottom: 0;
+    right: -100%;
+    width: 100%;
+    height: 2px;
+    background: linear-gradient(270deg,transparent,#2196f3);
+  }
+  .hover-button a:hover span:nth-child(3){
+    right: 100%;
+    transition: 1s;
+    transition-delay: 0.5s;
+  }
+  .hover-button a span:nth-child(4){
+    bottom: -100%;
+    left: 0;
+    width: 2px;
+    height: 100%;
+    background: linear-gradient(360deg,transparent,#2196f3);
+  }
+  .hover-button a:hover span:nth-child(4){
+    bottom: 100%;
+    transition: 1s;
+    transition-delay: 0.75s;
+  }
